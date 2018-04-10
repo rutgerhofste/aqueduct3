@@ -3,7 +3,7 @@ aqueduct3
 =========
 
 
-.. image:: https://pypi.python.org/pypi/aqueduct3
+.. image:: https://pypi.python.org/pypi/aqueduct3.svg
         :target: https://pypi.python.org/pypi/aqueduct3
 
 .. image:: https://travis-ci.org/rutgerhofste/aqueduct3.svg
@@ -12,7 +12,8 @@ aqueduct3
 .. image:: https://readthedocs.org/projects/aqueduct3/badge/?version=latest
         :target: https://aqueduct3.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
+.. image:: https://pyup.io/repos/github/rutgerhofste/aqueduct3/shield.svg
+        :target: https://pyup.io/repos/github/rutgerhofste/aqueduct3/shield.svg
 
 
 
