@@ -18,10 +18,8 @@ aqueduct3
 
 Python module for aqueduct program.
 
-
-.. _Tutorial: https://cookiecutter-pypackage.readthedocs.io/en/latest/tutorial.html
-.. _Release Checklist: https://gist.github.com/audreyr/5990987
-
+* Tutorial_  
+* `Release Checklist`_
 * Free software: MIT license
 * Documentation: https://aqueduct3.readthedocs.io.
 
@@ -38,3 +36,6 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+.. _Tutorial: https://cookiecutter-pypackage.readthedocs.io/en/latest/tutorial.html
+.. _`Release Checklist`: https://gist.github.com/audreyr/5990987
