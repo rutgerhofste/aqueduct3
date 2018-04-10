@@ -19,6 +19,9 @@ aqueduct3
 Python module for aqueduct program.
 
 
+.. _Tutorial: https://cookiecutter-pypackage.readthedocs.io/en/latest/tutorial.html
+.. _Release Checklist: https://gist.github.com/audreyr/5990987
+
 * Free software: MIT license
 * Documentation: https://aqueduct3.readthedocs.io.
 
