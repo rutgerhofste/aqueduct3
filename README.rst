@@ -7,7 +7,7 @@ aqueduct3
         :target: https://pypi.python.org/pypi/aqueduct3
 
 .. image:: https://img.shields.io/travis/rutgerhofste/aqueduct3.svg
-        :target: https://travis-ci.org/rutgerhofste/aqueduct3
+        :target: https://travis-ci.org/rutgerhofste/aqueduct3.svg
 
 .. image:: https://readthedocs.org/projects/aqueduct3/badge/?version=latest
         :target: https://aqueduct3.readthedocs.io/en/latest/?badge=latest
