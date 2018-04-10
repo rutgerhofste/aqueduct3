@@ -3,7 +3,7 @@ aqueduct3
 =========
 
 
-.. image:: https://pypi.python.org/pypi/dm/aqueduct3.svg
+.. image:: https://img.shields.io/pypi/dm/aqueduct3.svg
         :target: https://pypi.python.org/pypi/aqueduct3
 
 .. image:: https://travis-ci.org/rutgerhofste/aqueduct3.svg
